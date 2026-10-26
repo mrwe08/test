@@ -1,0 +1,3 @@
+=== TONG HOP LOG GAMEZONE ===
+[WARNING] May chu qua tai CPU 90%
+1
